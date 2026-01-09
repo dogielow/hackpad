@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "seed")(type "KiCad")(uri "C:/Users/gofa8/Desktop/OPL_Kicad_Library-master")(options "")(descr ""))
+  (lib (name "tylko2420")(type "KiCad")(uri "C:/Users/gofa8/Desktop/tylko ten jeden")(options "")(descr ""))
+)
