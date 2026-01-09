@@ -14,7 +14,7 @@ BOM:
 *a lot of love
 schematic 
 <img width="1181" height="742" alt="image" src="https://github.com/user-attachments/assets/7728e22c-8db4-4d22-ad07-3998413268e3" />
-``````````````````````````````````````````
+
 pcb
 <img width="1038" height="714" alt="image" src="https://github.com/user-attachments/assets/7a1a5e4e-2306-4812-a169-231454f1d3a3" />
 
