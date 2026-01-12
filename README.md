@@ -11,6 +11,7 @@ BOM:
 *seeed XIAO rp2040-DIP
 *4x sk6812 LED
 *adafruit ssd1306 oled
+* two female-female arduino cables
 *a lot of love
 schematic 
 <img width="1181" height="742" alt="image" src="https://github.com/user-attachments/assets/7728e22c-8db4-4d22-ad07-3998413268e3" />
@@ -22,13 +23,15 @@ pcb
 
 
 case assembled
-<img width="852" height="542" alt="image" src="https://github.com/user-attachments/assets/0fe8b0e0-ce2d-4083-971f-8bf0db9b22b9" />
+<img width="1920" height="544" alt="mocropasd" src="https://github.com/user-attachments/assets/0b515ff6-cf61-4ba1-9e73-9970e8a8a7a3" />
+
 
 
 
 
 top cover
-<img width="790" height="520" alt="image" src="https://github.com/user-attachments/assets/88cff94c-fa7c-46e8-b115-72b455754a87" />
+<img width="1920" height="544" alt="pokrywka" src="https://github.com/user-attachments/assets/d4631f50-e827-4ffe-870f-2ee9ead4211e" />
+
 
 
 
@@ -46,7 +49,7 @@ pcb in 3d
 
 ssd1306
 <img width="302" height="79" alt="image" src="https://github.com/user-attachments/assets/b58397be-e79d-4379-a19c-5a6931f9ff2c" />
-
+the two cables need to be cut in half, stripped and soldered to GPIO6 as sda and GPIO7 as scl, gnd and 5v. the ssd1036 has to be glued in to the hole in the top left.
 
 
 
