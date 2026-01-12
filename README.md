@@ -1,4 +1,4 @@
-LET ME KNOW IF SOMETHING IS WRONG PLEASE
+i dont have the ssd1306 and cherry mx 3d model!
 # hackpad
 my contribution to hackclubs blueprint!
 I found this project litellary on instagram at the end of its deadline, i have in a next project already started for blueprint.
@@ -21,6 +21,8 @@ pcb
 
 
 
+with xiao
+<img width="376" height="285" alt="Screenshot 2026-01-12 213345" src="https://github.com/user-attachments/assets/7f64a695-2fd6-4755-8c0d-6b2ac096d03b" />
 
 case assembled
 <img width="1920" height="544" alt="mocropasd" src="https://github.com/user-attachments/assets/0b515ff6-cf61-4ba1-9e73-9970e8a8a7a3" />
